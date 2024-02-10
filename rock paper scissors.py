@@ -1,6 +1,4 @@
-#python​ #tutorial​ #course​ 
-
-Python tutorial for beginners rock paper scissors
+# rock paper scissors
 
 import random
 
